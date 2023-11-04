@@ -25,6 +25,6 @@ Why shouldn’t we use the word Awesome? Is it due to grammar, or is it consider
 
 ##### AFTER:
 
-- I decided to make it shorter and more clear for readers. Before my *HOOK* wasn't connected with *CONCLUSION*.
+- I decided to make it shorter and more clear for readers. Before, my *HOOK* wasn't connected with *CONCLUSION*.
 
 <ins>However, I never figured out why she disliked that word so much. After some time, I realized that grammar had nothing to do with it. I mean... at least, I hope not. I think she hates this word because it can be overused. Who knows... in the end, she was and she's still a perfect teacher. She prepared me a lot for real life. And that's truly **AWESOME**.</ins>
