@@ -19,5 +19,12 @@ Why shouldn’t we use the word Awesome? Is it due to grammar, or is it consider
 
 ## A conclusion
 
+##### BEFORE:
+
+<del>What I would like to add is that I am very thankful for my English teacher in my primary school. Yeah, she was strict and because of her I am not using the word awesome anymore, but she helped me a lot and maybe because of her, I was braver to try my internship through Erasmus+ in Berlin. And that’s really awesome. I believe that she was important puzzle or bridge in my life. She moved me a lot. Nowadays you can see that younger generation from me don’t have too much problem with English language. Well, in my opinion it is because of the globalization, networking and nowadays we have more options than before. For example, if I am comparing me and my younger sister, I can see that my sister is much more better with English language than me. Only she needs to be braver to talk with people in English but I don’t think that will be problem for her in the future because she is studying at High school where all subjects are in English language and teachers are teaching in English too. And that’s awesome!</del>
+
 ##### AFTER:
 
+- I decided to make it shorter and more clear for readers. Before my *HOOK* wasn't connected with *CONCLUSION*.
+
+<ins>However, I never figured out why she disliked that word so much. After some time, I realized that grammar had nothing to do with it. I mean... at least, I hope not. I think she hates this word because it can be overused. Who knows... in the end, she was and she's still a perfect teacher. She prepared me a lot for real life. And that's truly **AWESOME**.</ins>
