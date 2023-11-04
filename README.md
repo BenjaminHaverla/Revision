@@ -20,7 +20,8 @@ Why shouldn’t we use the word Awesome? Is it due to grammar, or is it consider
 ## Whys & Supporting Points
 
 1. The article questions the word awesome. It contains a mystery that may be revealed later.
-2. 
+2. The importance of context: the author is avoiding a direct answer by telling a story that will later reveal why we're discussing the word awesome.
+3. Connected Puzzles: The author reveals the answer from his perspective through his experience. In the end, we discover that it has nothing to do with grammar; it's all about feelings. As readers, we can decide what we want to do with this word.
 
 ## A conclusion
 
