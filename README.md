@@ -39,4 +39,6 @@ Why shouldn’t we use the word Awesome? Is it due to grammar, or is it consider
 
 The word *awesome* can be overused, leading some people to hate it.
 
-#### [BACK TO THE MAIN PAGE](https://github.com/BenjaminHaverla/English-essay-workflow.git)
+-------------------------------------------------------------
+
+#### [<– BACK](https://github.com/BenjaminHaverla/English-essay-workflow.git)
